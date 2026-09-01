@@ -1,6 +1,6 @@
 # UCS553 - Assignment 2 (Week 3)
-Name: Sahibnoor Singh
-Roll No: 1024030251
+Name: Jasmine Tiwana
+Roll No: 1024030257
 
 Here are the two java projects for the assignment.
 
@@ -36,7 +36,4 @@ javac library/model/*.java library/service/*.java library/util/*.java library/ma
 java library.main.Main
 ```
 
-or u can just open it in intellij and run it directly.
-
-## Note
-sry if there are any small bugs, i am submiting this a bit late. I have kept the package structure as told in the lab manual.
+or u can just open it in intellij and run it directly
